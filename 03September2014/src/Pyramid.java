@@ -3,7 +3,9 @@ import java.util.Spliterator;
 
 
 public class Pyramid {
-
+	// Колега, бих предложил разделяне на проблема на подпроблеми и тяхното постъпково имплементирате.
+	// По този начин, лесно могат да се дебъгват отделни фрагменти код.
+	// Успех при решаването на останалите задачи от изпита на 07.01.2015г.
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
 		int number = Integer.parseInt(input.nextLine());
