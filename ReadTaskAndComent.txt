@@ -5,3 +5,5 @@
 5. You can see may Phyramid solution. I have 100 p.
 6. What is your solution for Problem 02 Durts. I have compile error in one of the tests.
 7. Think!!!
+
+8. I thinking
