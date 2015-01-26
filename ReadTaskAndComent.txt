@@ -1,4 +1,7 @@
 1. Read all fils. 
 2. Then think.
 3. After that: If you have any question - please, call me :)
+4. For Problem 09 from firts Java Homework you have to print full deck of 52 cards. 
+To do that, you have to use external library (etc. "itext"). You have to learn also how to
+format the text.
  
